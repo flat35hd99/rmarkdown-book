@@ -1,5 +1,5 @@
 --- 
-title: "R Markdown: The Definitive Guide"
+title: "日本語OK?"
 author: "Yihui Xie, J. J. Allaire, Garrett Grolemund"
 date: "`r Sys.Date()`"
 documentclass: krantz
